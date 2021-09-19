@@ -1,2 +1,2 @@
 # CryptoCurrencyQuant
-Roadmap for Crypto currency quant. 
+Roadmap for crypto currency quant. 
